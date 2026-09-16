@@ -277,6 +277,7 @@ img,canvas,svg { display:block; }
 
 /* ---------- PLAY ---------- */
 .play{
+  min-height:78dvh;
   background:
     radial-gradient(70% 60% at 50% 42%, var(--orange-1), transparent 55%),
     radial-gradient(120% 90% at 15% 15%, var(--blue-2), transparent 55%),
